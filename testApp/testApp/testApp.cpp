@@ -2,10 +2,14 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
 
-
+using namespace std;
 int main()
 {
-    return 0;
+	int k = 0;
+	cin >> k;
+	cout << k;
+	return 0;
 }
 
