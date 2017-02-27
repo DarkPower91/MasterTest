@@ -28,3 +28,4 @@
 *.out
 *.app
 testApp/testApp.VC.VC.opendb
+testApp/testApp.VC.db
